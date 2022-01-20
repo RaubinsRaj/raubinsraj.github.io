@@ -23,7 +23,7 @@ I am an Amazon certified Developer(AWS certified Developer Associate).
 ### **SENIOR SOFTWARE ENGINEER**
 ### Capgemini
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Working as a fullstack developer in AEP application with Java 8 as backend and React Js as frontend. Worked on migration of AEP application to Java 8 latest features and enhanced knowledge in CI/CD tools, maintainence of application, resolving bugs and errors encountered in PROD.
 
 ### **SOFTWARE ENGINEER**
 ### Capgemini
