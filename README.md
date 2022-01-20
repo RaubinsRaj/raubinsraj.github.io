@@ -16,7 +16,7 @@ I am an Amazon certified Developer(AWS certified Developer Associate).
 
 ---
 ## Resume
-<a href=" " download >Download Resume</a>
+<a href="https://github.com/RaubinsRaj/raubinsraj.github.io/blob/main/Raubins_Raj_Resume.pdf " download >Download Resume</a>
 
 ## Experience
 
