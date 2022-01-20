@@ -34,7 +34,13 @@ Worked with packages team to build website using React, typsecript and redux. De
 ### **UNIVERSITY Of PUNE**
 ### Bachelor of Engineering(2016-2020)
 GPA 7.8
----
+--
+### HSC(Intermediate)
+85.4% (CBSE)
+--
+### SSC(Matriculation) 
+CGPA 10
+--
 
 ### INTERESTS
 Apart from being a web developer, I do content creation. I also write for Quora regularly.
