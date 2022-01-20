@@ -4,9 +4,9 @@ logo: "/raubinsrajprofile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Senior Software Engineer
   <br><br>
-  <a href="mailto:raubins.raj98@gmail.com">raubins.raj98@gmail.com </a>
+  <a href="mailto:raubins.raj98@gmail.com" >raubins.raj98@gmail.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/raubins-raj-18423214a/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/raubins-raj-18423214a/" target="_blank">LinkedIn Profile</a>
   <br>
- <a href="https://www.quora.com/profile/Raubins-Raj-1">Quora Blog</a> 
+ <a href="https://www.quora.com/profile/Raubins-Raj-1" target="_blank">Quora Blog</a> 
 theme: jekyll-theme-minimal
