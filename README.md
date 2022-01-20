@@ -15,6 +15,8 @@ I am an Amazon certified Developer(AWS certified Developer Associate).
 </p>
 
 ---
+## Resume
+<a href=" " download >Download Resume</a>
 
 ## Experience
 
